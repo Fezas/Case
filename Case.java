@@ -2,8 +2,6 @@
  * Copyright (c) Fezas 2023
  */
 
-package mo.specdoc.util;
-
 public class Case {
     private String family, name, lastname;
     private boolean gender;
