@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2022
+ * Copyright (c) Fezas 2023
  */
 
 package mo.specdoc.util;
